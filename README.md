@@ -1,3 +1,7 @@
+
+<img width="612" height="408" alt="Bl" src="https://github.com/user-attachments/assets/c75d2904-5472-49b0-9390-b2d4b2e5f5d1" />
+
+
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
 This is the main repository for all of the projects in the course.
